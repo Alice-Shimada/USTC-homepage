@@ -3,7 +3,7 @@ baseurl: /~liuyuanche               # Change to "/~" plus your email username
 
 theme: minima
 title: "Liu Yuanche's page" # Your home page name
-description: "Blah blah"      # Your description
+description: "new homepage"      # Your description
 
 exclude:
   - '.*'
